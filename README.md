@@ -1,4 +1,4 @@
-#### Rodrigo Brezolin, programador full-stack pela Trybe e quase engenheiro de automação pela UNIFEI.
+#### Rodrigo Brezolin, desenvolvedor full-stack pela Trybe e quase engenheiro de automação pela UNIFEI.
 
 * Stacks: ReactJS e NodeJS.
 
