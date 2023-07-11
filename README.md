@@ -1,6 +1,6 @@
 #### Rodrigo Brezolin, desenvolvedor front-end
 
-* Desenvolvedor front-end na Ipê Digital
+* Desenvolvedor front-end
 * Stacks: HTML, CSS, JS, ReactJS e VueJS.
 * Formado em desenvolvedor full-stack pela Trybe.
 * Quase engenheiro de controle e automação (UNIFEI - Universidade Ferderal de Itajubá).
