@@ -1,7 +1,7 @@
 #### Rodrigo Brezolin, desenvolvedor front-end
 
 * Desenvolvedor front-end
-* Stacks: HTML, CSS, JS, ReactJS e VueJS.
+* Stacks: HTML, CSS, JS, TypeScript, ReactJS e VueJS.
 * Formado em desenvolvedor full-stack pela Trybe.
 * Quase engenheiro de controle e automação (UNIFEI - Universidade Ferderal de Itajubá).
 * Portfolio: https://rdgbrezolin.github.io/portfolio
