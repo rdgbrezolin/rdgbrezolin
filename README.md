@@ -3,8 +3,7 @@
 * Desenvolvedor front-end
 * Stacks: HTML, CSS, JS, TypeScript, ReactJS e VueJS.
 * Formado em desenvolvedor full-stack pela Trybe.
-* Quase engenheiro de controle e automação (UNIFEI - Universidade Ferderal de Itajubá).
-* Portfolio: https://rdgbrezolin.github.io/portfolio
+* Engenheiro de controle e automação (UNIFEI - Universidade Ferderal de Itajubá).
 * Linkedin: https://www.linkedin.com/in/rodrigobrezolin
 
 <div style="display: inline_block"><br>
