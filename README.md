@@ -1,9 +1,9 @@
 #### Rodrigo Brezolin, desenvolvedor front-end
 
 * Desenvolvedor front-end
+* Engenheiro de Controle e Automação (UNIFEI - Universidade Ferderal de Itajubá).
 * Stacks: HTML, CSS, JS, TypeScript, ReactJS e VueJS.
-* Formado em desenvolvedor full-stack pela Trybe.
-* Engenheiro de controle e automação (UNIFEI - Universidade Ferderal de Itajubá).
+* Formado em Desenvolvedor Full-stack pela Trybe.
 * Linkedin: https://www.linkedin.com/in/rodrigobrezolin
 
 <div style="display: inline_block"><br>
